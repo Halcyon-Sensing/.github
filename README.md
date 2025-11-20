@@ -7,10 +7,8 @@ Halcyon Sensing is a specialized company focused on **remote sensing and data an
 ## Our Services
 
 ### Remote Sensing & Data Analysis
-We specialize in collecting, processing, and analyzing remote sensing data from various sources including:
+We specialize in processing, and analyzing remote sensing data from various sources including:
 - Satellite imagery
-- Aerial photography
-- LiDAR systems
 - Bathymetric surveys
 - Multispectral and hyperspectral sensors
 
@@ -22,7 +20,7 @@ Our team provides comprehensive data processing services designed to expedite pr
 - **Custom analysis and reporting** tailored to project requirements
 
 ### Dredging & Civil Works Support
-We help streamline dredging operations and civil engineering projects through:
+We aim to build a system that helps streamline dredging operations and civil engineering projects through:
 - **Pre-dredge surveys** and volumetric analysis
 - **Progress monitoring** and verification
 - **Post-dredge validation** and compliance reporting
