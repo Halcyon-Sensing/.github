@@ -2,7 +2,7 @@
 
 ## About Us
 
-Halcyon Sensing is a specialized company focused on **remote sensing and data analysis** solutions. We leverage cutting-edge technology and expertise to provide actionable insights from geospatial and sensor data. You can also find as at [halcyonsensing.com](https://halcyonsensing.com).
+Halcyon Sensing is a specialized company focused on **remote sensing and data analysis** solutions. We leverage cutting-edge technology and expertise to provide actionable insights from geospatial and sensor data.
 
 ## Our Services
 
@@ -36,4 +36,4 @@ We aim to build a system that helps streamline dredging operations and civil eng
 
 ## Get In Touch
 
-Ready to expedite your next project with professional data processing and analysis? Contact us to learn more about how Halcyon Sensing can support your remote sensing and civil works needs.
+Ready to expedite your next project with professional data processing and analysis? Find us at [halcyonsensing.com](https://halcyonsensing.com) to learn more about how Halcyon Sensing can support your remote sensing and civil works needs.
